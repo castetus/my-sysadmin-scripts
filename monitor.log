@@ -1,0 +1,65 @@
+---2026-09-14 12:35:47---
+               total        used        free      shared  buff/cache   available
+Mem:            13Gi        10Gi       965Mi       1.0Gi       3.7Gi       3.3Gi
+Swap:          511Mi       508Mi       3.9Mi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.4G  2.9M  1.4G   1% /run
+/dev/nvme0n1p2  288G  270G  3.0G  99% /
+tmpfs           6.8G  874M  6.0G  13% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+tmpfs           6.8G     0  6.8G   0% /run/qemu
+tmpfs           6.8G  103M  6.7G   2% /tmp
+tmpfs           1.4G  148K  1.4G   1% /run/user/1000
+ 12:35:47 up 3 days, 16:11,  1 user,  load average: 2.00, 1.78, 1.39
+---2026-09-14 12:35:52---
+               total        used        free      shared  buff/cache   available
+Mem:            13Gi        10Gi       943Mi       1.0Gi       3.8Gi       3.3Gi
+Swap:          511Mi       508Mi       3.9Mi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.4G  2.9M  1.4G   1% /run
+/dev/nvme0n1p2  288G  270G  3.0G  99% /
+tmpfs           6.8G  887M  6.0G  13% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+tmpfs           6.8G     0  6.8G   0% /run/qemu
+tmpfs           6.8G  103M  6.7G   2% /tmp
+tmpfs           1.4G  148K  1.4G   1% /run/user/1000
+ 12:35:52 up 3 days, 16:11,  1 user,  load average: 2.08, 1.80, 1.39
+---2026-09-14 12:35:57---
+               total        used        free      shared  buff/cache   available
+Mem:            13Gi        10Gi       967Mi       1.0Gi       3.8Gi       3.4Gi
+Swap:          511Mi       508Mi       3.9Mi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.4G  2.9M  1.4G   1% /run
+/dev/nvme0n1p2  288G  270G  3.0G  99% /
+tmpfs           6.8G  885M  6.0G  13% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+tmpfs           6.8G     0  6.8G   0% /run/qemu
+tmpfs           6.8G  103M  6.7G   2% /tmp
+tmpfs           1.4G  148K  1.4G   1% /run/user/1000
+ 12:35:57 up 3 days, 16:12,  1 user,  load average: 1.91, 1.77, 1.39
+---2026-09-14 12:36:02---
+               total        used        free      shared  buff/cache   available
+Mem:            13Gi        10Gi       926Mi       1.0Gi       3.8Gi       3.3Gi
+Swap:          511Mi       508Mi       3.9Mi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.4G  2.9M  1.4G   1% /run
+/dev/nvme0n1p2  288G  270G  3.0G  99% /
+tmpfs           6.8G  893M  6.0G  13% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+tmpfs           6.8G     0  6.8G   0% /run/qemu
+tmpfs           6.8G  103M  6.7G   2% /tmp
+tmpfs           1.4G  148K  1.4G   1% /run/user/1000
+ 12:36:02 up 3 days, 16:12,  1 user,  load average: 1.92, 1.77, 1.39
+---2026-09-14 12:36:07---
+               total        used        free      shared  buff/cache   available
+Mem:            13Gi        10Gi       948Mi       1.0Gi       3.8Gi       3.3Gi
+Swap:          511Mi       508Mi       3.9Mi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.4G  2.9M  1.4G   1% /run
+/dev/nvme0n1p2  288G  270G  3.0G  99% /
+tmpfs           6.8G  891M  6.0G  13% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+tmpfs           6.8G     0  6.8G   0% /run/qemu
+tmpfs           6.8G  103M  6.7G   2% /tmp
+tmpfs           1.4G  148K  1.4G   1% /run/user/1000
+ 12:36:07 up 3 days, 16:12,  1 user,  load average: 1.77, 1.74, 1.38
